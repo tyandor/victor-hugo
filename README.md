@@ -1,3 +1,5 @@
+This is an excellent boilerplate from the fine folks at Netlify. I have just added precss to the build process so you can use Sass-like variables, functions, etc. See the [precss repo](https://github.com/jonathantneal/precss) for details. 
+
 # Victor Hugo
 
 **A [Hugo](https://gohugo.io/) boilerplate for creating truly epic websites**
